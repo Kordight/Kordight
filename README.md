@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-I'm Sebastian — a passionate developer with a strong focus on **game development**, **system design**, and **data analysis**.  
+I'm Sebastian, a passionate developer with a strong focus on **game development**, **system design**, and **data analysis**.  
 Always exploring new technologies, optimizing pipelines, and learning through building.
 
 ---
