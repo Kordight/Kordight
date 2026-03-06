@@ -20,7 +20,7 @@ jobs:
         with:
           card: stats
           options: >
-            username=${{ github.repository_owner }}
+            username=Kordight
             &show_icons=true
             &hide_border=false
             &theme=tokyonight
@@ -33,7 +33,7 @@ jobs:
         with:
           card: top-langs
           options: >
-            username=${{ github.repository_owner }}
+            username=Kordight
             &layout=compact
             &langs_count=6
             &hide_border=false
