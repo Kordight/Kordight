@@ -19,12 +19,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: >
-            username=Kordight
-            &show_icons=true
-            &hide_border=false
-            &theme=tokyonight
-            &count_private=true
+          options: "username=Kordight&show_icons=true&hide_border=false&theme=tokyonight&count_private=true"
           path: profile/stats.svg
           token: ${{ secrets.STATS_TOKEN }}
 
@@ -32,13 +27,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: >
-            username=Kordight
-            &layout=compact
-            &langs_count=6
-            &hide_border=false
-            &theme=tokyonight
-            &count_private=true
+          options: "username=Kordight&layout=compact&langs_count=6&hide_border=false&theme=tokyonight&count_private=true"
           path: profile/top-langs.svg
           token: ${{ secrets.STATS_TOKEN }}
 
