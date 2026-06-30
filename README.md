@@ -1,6 +1,9 @@
 ### Hello there 👋
 
-I'm just a guy who tries to code. 
+ Most of my recent C++ work (custom HTTP servers, parsers, and Unreal Engine plugins) is closed-source due to commercial NDAs and store licensing.
+ Check my public repositories for my Python/Docker projects, or visit my portfolio at [kordight.dev](kordight.dev) to see what I'm currently working on.
+
+ You can also check out my [Epic Games Fab Marketplace Profile](https://www.fab.com/sellers/Kordight).
 
 ---
 
